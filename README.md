@@ -15,16 +15,19 @@ DB_PORT=5432
 
 SECRET_KEY=databasepos1123456
 
+
 Переходим в директорию `shop/server`, устанавливаем пакеты, запускаем сервер
 
 npm install
+
 npm run start-dev
+
 
 
 Переходим в директорию `shop/client`, устанавливаем пакеты, запускаем клиент
 
-cd /path/to/shop/client
 npm install
+
 npm start
 
 
