@@ -2,11 +2,17 @@
 Имя БД и логин-пароль прописывам в `server/.env`
 
 PORT=7000
+
 DB_HOST=localhost
+
 DB_NAME=online_store
+
 DB_USER=postgres
+
 DB_PASS=databasepos1
+
 DB_PORT=5432
+
 SECRET_KEY=databasepos1123456
 
 Переходим в директорию `shop/server`, устанавливаем пакеты, запускаем сервер
